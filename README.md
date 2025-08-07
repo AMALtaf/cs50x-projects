@@ -11,8 +11,8 @@ Here I will upload:
 - [x] Lecture 0: Scratch
 - [x] Lecture 1: C (in progress)
 
-## 🛠️ Projects
-- Scratch Game 👉 [View on Scratch](https://scratch.mit.edu/projects/1204105205)
+## 🛠️ Project
+- Scratch Game 👉 [View on Scratch](https://scratch.mit.edu/projects/1204209719)
 
 ## 📌 About me
 I'm a student from Morocco currently studying CS50x.  
